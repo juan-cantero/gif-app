@@ -1,0 +1,9 @@
+.GifGrid {
+  display: flex;
+  flex-flow: wrap;
+  width: 90vw;
+  justify-content: space-evenly;
+  align-content: space-around;
+  overflow: hidden;
+
+}
