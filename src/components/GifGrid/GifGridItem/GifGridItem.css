@@ -1,0 +1,23 @@
+
+
+.GifGridItem {
+  border: 1px solid grey;
+  border-radius: 5px;
+  width: 20%;
+  margin-bottom: 1rem;
+  text-align: center;
+  
+}
+
+.GifGridItem:hover {
+   animation:rubberBand;
+  animation-duration: 1s;
+}
+
+
+.GifGridItem img {
+  width: 100%;
+  height: 80%;
+}
+
+

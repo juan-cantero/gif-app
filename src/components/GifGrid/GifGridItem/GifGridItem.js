@@ -1,6 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import './GifGrid.css';
+import './GifGridItem.css';
+import 'animate.css';
 
 function GifGridItem({ title, imageUrl }) {
   return (
